@@ -94,13 +94,13 @@ ul {
 
 .navbar__logo {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   font-size: var(--font-medium);
   font-weight: var(--weight-semi-bold);
 }
 
 .navbar__logo__image {
-  width: 37px;
+  width: 45px;
 }
 
 .navbar__menu {
