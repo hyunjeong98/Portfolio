@@ -137,7 +137,7 @@ ul {
 /* Home*/
 
 #home {
-  background: center/cover no-repeat url(/images/home-background.png);
+  background: center/cover no-repeat url("/images/home-background.png");
   text-align: center;
   padding: 40px;
 }
